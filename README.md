@@ -153,6 +153,3 @@ It does **not** currently include:
 
 ## License
 
-GPL-3.0-or-later
-
-## 
