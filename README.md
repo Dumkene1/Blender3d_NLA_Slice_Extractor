@@ -149,7 +149,4 @@ It does **not** currently include:
 - Keep your source strip intact so you can extract multiple clips from the same animation
 - Use the resulting strips to prepare clean exports for external engines like Unreal
 
-## 
-
-## License
 
