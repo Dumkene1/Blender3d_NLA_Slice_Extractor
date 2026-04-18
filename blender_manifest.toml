@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "nla_slice_extractor"
+version = "0.1.0"
+name = "NLA Slice Extractor"
+tagline = "Extract a frame range from a selected NLA strip into a new Action"
+maintainer = "Dumkene"
+type = "add-on"
+website = "https://extensions.blender.org"
+tags = ["Animation"]
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
